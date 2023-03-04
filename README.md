@@ -1,6 +1,6 @@
 # Challange-09
 
-## Data Modeling 
+# Data Modeling 
 
 - ER diagram for the given data from all the 6 csv's has been uploaded as a seperate image file.
 
